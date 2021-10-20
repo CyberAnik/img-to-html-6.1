@@ -1,0 +1,147 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    padding: 21px 0;
+}
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 8%;
+    float: left;
+}
+.logo img{
+   width: 100%;
+}
+.menu{
+    width: 60%;
+    float: right;
+    margin: 3px 0px;
+}
+.menu ul{
+    float: right;
+}
+.menu ul li{
+    list-style-type: none;
+    float: left;
+}
+.menu ul li a {
+    text-decoration: none;
+    padding: 0 25px;
+    display: inline-block;
+}
+.menu ul li a:hover{
+    color:#008aff ;
+} 
+.menu ul li:last-child a{
+    padding-right: 0%;
+}
+.banner{
+    padding: 25px 0;
+}
+.wrapper2{
+    width: 70%;
+    margin: 0 auto;
+}
+.content{
+    text-align: center;
+}
+.h1{
+    margin: 0%;
+    line-height: 58px;
+    font-size: 43px;
+    color: #0f2656;
+}
+.s1{
+    color: #008aff;
+}
+.p1{
+    color: #0f2656;
+    margin: 13px 0;
+}
+.img2{
+    width: 50%;
+    margin: 0 auto;
+}
+.img2 img{
+    width: 100%;
+    transition: .3s;
+}
+.img2 img:hover{  
+    transform: scale(.8);
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    width: 40%;
+    float: left;
+    text-align: right;
+}
+.h2{
+    font-size: 43px;
+    margin: 0%;
+    color: #f15767;
+}
+.p2{
+    line-height: 27px;
+    margin: 0;
+}
+.right{
+    width: 57%;
+    float: right;
+}
+.h3{
+    text-align: left;
+    margin: 0 ;
+    color: #0f2656;
+    font-size: 43px;
+}
+.single{
+    width: 27%;
+    padding: 40px 23px;
+    float: left;
+    margin: 65px 40px 65px 0;
+}
+.pink{
+    background-color: #fdebed;
+}
+.green{
+    background-color: #ebf9f4;
+}
+.yellow{
+    background-color: #fff7e8;
+}
+.simg img{
+    width: 100%;
+}
+.h4{
+    color: #0f2656;
+    margin: 0%;
+    font-size: 20px;
+    margin: 15px 0;
+}
+.p3{
+    color: #0f2656;
+    line-height: 27px;
+    word-break: break-word;
+    margin: 0%;
+}
+footer{
+    background-color: #008aff ;
+}
+.p5{
+    text-align: center;
+    padding: 30px 0;
+    font-size: 12px;
+    color:#0f2656 ;
+}
+b{
+    letter-spacing: 3px;
+    color: blanchedalmond;
+}
